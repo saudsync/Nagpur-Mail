@@ -1,4 +1,4 @@
-# github-pages-starter
+# Nagpur Mail 
 
 A template for including data visualizations in a Jekyll-powered blog with Github Pages.
 
