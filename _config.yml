@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "MUSA 550"
+title: "Nagpur Mail"
 email:
-description: "Geospatial Data Science in Python"
+description: "Stay informed with Nagpur Mail — your source for City News, Business, Education, and more."
 twitter_username:
 github_username:
 minimal_mistakes_skin: default
