@@ -2,7 +2,7 @@
 
 A template for including data visualizations in a Jekyll-powered blog with Github Pages.
 
-[DEMO](https://musa-550-fall-2022.github.io/github-pages-starter/)
+[DEMO](https://nagpurmail.tech/)
 
 ## Steps
 
