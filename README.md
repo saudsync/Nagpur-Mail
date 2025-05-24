@@ -2,7 +2,7 @@
 
 A template for including data visualizations in a Jekyll-powered blog with Github Pages.
 
-[DEMO](https://nagpurmail.tech/)
+[DEMO](https://nagpurmail.netlify.app/)
 
 ## Steps
 
